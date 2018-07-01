@@ -7,9 +7,9 @@ Full information in this URL:
 https://en.wikipedia.org/wiki/Longest_increasing_subsequence
 
 List of versions to LIS:
-1. ```int lis_long(int arr[], int n);```: Length, Runtime table, Comments and more.
-2. ```int lis_short(int arr[], int n);```: Length, Comments and more.
-3. ```int lis_short_no_comments(int arr[], int n);```: Length.
+1. ```int lis_long(int arr[], int n);```: Output: Length. More prints: Runtime table, Comments and more.
+2. ```int lis_short(int arr[], int n);```: Output: Length. More prints: Comments and more.
+3. ```int lis_short_no_comments(int arr[], int n);```: Output: Length.
 
 The program is very easy to use.
 
