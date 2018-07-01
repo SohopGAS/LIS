@@ -7,14 +7,14 @@ Full information in this URL:
 https://en.wikipedia.org/wiki/Longest_increasing_subsequence
 
 List of versions to LIS:
-1. ```int lis_long(int arr[], int n);```: Output: Length. More prints: Runtime table, Comments and more.
-2. ```int lis_short(int arr[], int n);```: Output: Length. More prints: Comments and more.
-3. ```int lis_short_no_comments(int arr[], int n);```: Output: Length.
+1. ```int lis_long(int arr[], int n);```: Output: Length. More prints: Index, array, length, subsequense, final LIS.
+2. ```int lis_short(int arr[], int n);```: Output: Length. 
+3. ```int lis_short_no_comments(int arr[], int n);```: Output: Length. More prints: Runtime table for every iteration.
 
 The program is very easy to use.
 
 1. You can change in the main function, the array you want as input.
-2. Call to exsist function from the list.
+2. Call to exist function from the list. (The variable n (array length) need to be declared).
 4. Run the application.
 3. Get the output for your input (LIS).
 
