@@ -14,6 +14,8 @@ List of versions to LIS:
 2. ```int lis_short(int arr[], int n);```: Output: Length. 
 3. ```int lis_short_no_comments(int arr[], int n);```: Output: Length. More prints: Runtime table for every iteration.
 
+Attention: The program get an array of different(!) numbers as input.
+
 The program is very easy to use.
 
 1. You can change in the main function, the array you want as input.
