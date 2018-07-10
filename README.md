@@ -4,10 +4,10 @@ The longest increasing subsequence problem is to find a subsequence of a given s
 This solution in time O(n^2).
 
 Full information in this URL:
-https://en.wikipedia.org/wiki/Longest_increasing_subsequence
+[Wikipedia](https://en.wikipedia.org/wiki/Longest_increasing_subsequence)
 
 Here is good video that I used to learn this Dynamic Programming case:
-https://www.youtube.com/watch?v=E6us4nmXTHs
+[YouTube](https://www.youtube.com/watch?v=E6us4nmXTHs)
 
 List of versions to LIS:
 1. ```int lis_long(int arr[], int n);```: Output: Length. More prints: Index, array, length, subsequense, final LIS.
